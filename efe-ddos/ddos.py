@@ -78,7 +78,7 @@ def usage():
 	print (''' \033[92m	Efe Stark is basinda/
 	Ha gayret Efe! daha yolun cok!.
 	Kullanmak icin asagidaki talimatlara bak. \n
-	kullanim : python3 hammer.py -s siteadresi -p 80 -t 250
+	kullanim : python3 ddos.py -s siteadresi-ipadresi -p 80 -t 250
 	-h : yardim
 	-s : server ip
 	-p : port normal 80
